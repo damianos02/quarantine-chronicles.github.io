@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://quarantine-chronicles.github.io/</loc>
+  <lastmod>2020-05-26T18:55:09+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://quarantine-chronicles.github.io/submit.html</loc>
+  <lastmod>2020-05-26T18:55:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://quarantine-chronicles.github.io/editions.html</loc>
+  <lastmod>2020-05-26T18:55:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://quarantine-chronicles.github.io/Quarantine%20Chronicles%20April%202020.pdf</loc>
+  <lastmod>2020-05-26T18:55:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://quarantine-chronicles.github.io/May%20Issue%20QC.pdf</loc>
+  <lastmod>2020-05-26T18:55:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
